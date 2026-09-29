@@ -1,9 +1,13 @@
-## Hi there 👋
+## ¡Hola, pequeña estrella! <img width="50" height="50" alt="StarPopGIF" src="https://github.com/user-attachments/assets/437384e0-caf9-4b22-ac35-c3bb69ffdf21" />
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Somos Ultravioleta, y estamos encantados de conocerte.
+¿Eres una persona curiosa? Eso parece. ¿Te interesa saber qué es lo que en realidad hacemos? Estás apunto de saberlo.
+
+Nosotros, Ultravioleta, nos dedicamos a disfrutar de programar y diseñar cosas interesantes para que tú, persona curiosa, puedas disfrutar de ello.
+
+Estamos trabajando en un proyecto muy especial. Esperamos que lo veas pronto.
+
+Nos vemos en la vía láctea,
+
+Nina🌟.
